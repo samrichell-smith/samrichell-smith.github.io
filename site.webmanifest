@@ -1,0 +1,19 @@
+{
+  "name": "Sam Richell-Smith Portfolio",
+  "short_name": "SR Portfolio",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "theme_color": "#050507",
+  "background_color": "#050507",
+  "display": "standalone"
+}
